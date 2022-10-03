@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Sep 20 11:31:13 BST 2022","Tue Sep 20 11:31:23 BST 2022","10141","","test_runtimefetch","","","","test_runtimefetch",""
+"passed","Tue Sep 20 11:30:38 BST 2022","Tue Sep 20 11:30:51 BST 2022","12959","","test_explicittime","","","","test_verify_registration",""
+"passed","Tue Sep 20 11:30:51 BST 2022","Tue Sep 20 11:31:13 BST 2022","21984","","test_firstTestcase","","","","test_firsttestcase",""
+"broken","Tue Sep 20 11:31:24 BST 2022","Tue Sep 20 11:31:32 BST 2022","8096","","test_scrnsht","","","","test_scrnsht",""
+"passed","Tue Sep 20 11:29:51 BST 2022","Tue Sep 20 11:30:29 BST 2022","37696","","test_actionclass","","","","test_actionclass",""
